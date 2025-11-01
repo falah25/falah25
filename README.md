@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-	🔭 ___I’m currently working on pre-Pathway GDoC USU___ .
-	🌱 ___I’m currently learning on my Github profile____.
+	🔭 I’m currently working on pre-Pathway GDoC USU .
+	🌱 I’m currently learning on my Github profil.
 
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
