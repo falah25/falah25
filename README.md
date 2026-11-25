@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-	🔭 I’m currently working on pre-Pathway GDoC USU .
+	🔭 I’m currently studying at POLITEKNIK NEGERI MEDAN .
 	🌱 I’m currently learning on my Github profil.
 
 
